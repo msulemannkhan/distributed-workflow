@@ -1,0 +1,4 @@
+celery
+Redis
+uvicorn[standard]
+prefect

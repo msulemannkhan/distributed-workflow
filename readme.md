@@ -14,7 +14,6 @@ Build and start the containers:
 
 ```
 docker-compose up -d
-
 ```
 Test the code:
 ```
